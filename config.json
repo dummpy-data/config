@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "id": "ico",
+      "name": "ICO Round 2",
+      "icon": "https://sdb-config-299.s3.ap-southeast-1.amazonaws.com/images/ico-round-2.png",
+      "url": "https://launchpad-dev620.sdbank.co/sdb-ico",
+      "display": false,
+      "enabled": false
+    }
+  ]
+}
